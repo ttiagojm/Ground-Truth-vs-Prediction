@@ -1,4 +1,4 @@
-# Projeto Canino
+# Projeto Canino - Identificar raças de cães
 
 * Bem, este é um projeto que eu tenho muito carinho e <b>não está finalizado!</b>
 
@@ -38,6 +38,8 @@ Resumindo:
 [3] - Todas as imagens são obtidas através da [ImageNet](https://www.image-net.org/), e como não são tratadas, vêm muitos ícones de sites e imagens corrompiadas (mesmo tendo funções para verificar e elminar essas imagens).<b>É importante que você vejas as imagens e elimine e edite o que achar conveniente</b>
 
 [4] - Poderá haver caminhos para ficheiros e/ou diretórios errados, já que tive de mexer na estrutura para criar este repositório.
+
+[5] - O `auto_edit.py` não está finalizado e objetivo dele era fazer crop no cão excluíndo tudo o resto (para não ter que fazer manualmente).
 
 
 # Porque na versão 1 não usou funções prontas do TF/Keras?
