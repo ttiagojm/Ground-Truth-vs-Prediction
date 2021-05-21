@@ -1,0 +1,11 @@
+Pillow
+requests
+pandas
+xlrd
+tqdm
+numpy
+opencv-python
+matplotlib
+scikit-learn
+tensorflow
+tensorflow_hub
